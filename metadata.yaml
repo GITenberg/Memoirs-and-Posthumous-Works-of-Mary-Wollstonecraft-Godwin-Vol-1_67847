@@ -1,0 +1,42 @@
+_repo: Memoirs-and-Posthumous-Works-of-Mary-Wollstonecraft-Godwin-Vol-1_67847
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Godwin, William
+    alias: Baldwin, Edward
+    birthdate: 1756
+    deathdate: 1836
+    gutenberg_agent_id: '380'
+    url: http://www.gutenberg.org/2009/agents/380
+    wikipedia: https://en.wikipedia.org/wiki/William_Godwin
+  - agent_name: Wollstonecraft, Mary
+    aliases:
+    - Godwin, Mary Wollstonecraft
+    - Cresswick, Mr.
+    birthdate: 1759
+    deathdate: 1797
+    gutenberg_agent_id: '84'
+    url: http://www.gutenberg.org/2009/agents/84
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft
+description: ''
+gutenberg_issued: '2022-04-16'
+identifiers:
+  gutenberg: '67847'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/001428182
+pgterms:marc905: 20201219232640wollstonec
+pgterms:marc906: '1798'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United Kingdom :J. Rice,1798.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wollstonecraft, Mary, 1759-1797 -- Correspondence'
+- !lcsh 'Wollstonecraft, Mary, 1759-1797'
+- !lcc 'PR'
+- GITenberg
+title: Memoirs and Posthumous Works of Mary Wollstonecraft Godwin, Vol. 1
+url: http://www.gutenberg.org/ebooks/67847
